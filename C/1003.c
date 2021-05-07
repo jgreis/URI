@@ -1,3 +1,5 @@
+// URI 1003. Soma Simples
+
 #include <stdio.h>
 
 int main()

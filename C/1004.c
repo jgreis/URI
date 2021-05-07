@@ -1,3 +1,5 @@
+// URI 1004. Produto Simples
+
 #include <stdio.h>
 
 int main()

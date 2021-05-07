@@ -1,3 +1,5 @@
+// URI 1008. Salário
+
 #include <stdio.h>
 
 int main()
